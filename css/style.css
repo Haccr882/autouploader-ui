@@ -1,0 +1,48 @@
+body {
+font-family: Arial;
+background: #0f172a;
+color: white;
+margin: 0;
+padding: 20px;
+}
+
+header {
+display: flex;
+justify-content: space-between;
+padding: 15px;
+background: #1e293b;
+}
+
+.hero {
+text-align: center;
+margin: 40px 0;
+}
+
+.plans {
+display: flex;
+gap: 20px;
+justify-content: center;
+}
+
+.plan {
+background: #1e293b;
+padding: 20px;
+border-radius: 12px;
+text-align: center;
+}
+
+button {
+background: #3b82f6;
+color: white;
+border: none;
+padding: 10px 20px;
+border-radius: 8px;
+cursor: pointer;
+}
+
+.card {
+background: #1e293b;
+padding: 20px;
+margin: 20px 0;
+border-radius: 12px;
+}
